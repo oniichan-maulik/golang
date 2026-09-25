@@ -1,2 +1,2 @@
 # golang
-It is my learning joruney for golang.
+It is my learning journey for golang.
